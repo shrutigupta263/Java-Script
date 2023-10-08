@@ -9,3 +9,7 @@ let age = 20
 let isLoggedIn = false
 let state;
  console.log(typeof undefined);
+ console.log(typeof null);
+ console.log(typeof shruti);
+ console.log(typeof age); 
+ console.log(typeof state);
