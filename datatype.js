@@ -12,4 +12,6 @@ let state;
  console.log(typeof null);
  console.log(typeof shruti);
  console.log(typeof age); 
- console.log(typeof state);
+ console.log(typeof state); 
+
+ 
