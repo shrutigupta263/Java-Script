@@ -18,4 +18,18 @@ function addtwonumbers(number1, number2){
 const result = addtwonumbers(3,5)
 console.log("Result: ", result);
 
+function loginusermessage(username = "sam"){
+    if(!username){
+        console.log("please enter username");
+        return 
+    }
+    return `${username} just logged in`
+}
+console.log(loginusermessage(""))
+//here in result it diffine undifiined so now udate that just rint lease sentence 
+//if no name is print in consle then it will print please 
 
+
+
+
+/// remainn this toic of function 
