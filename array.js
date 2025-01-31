@@ -24,7 +24,8 @@ console.log(myArr);
 console.log(newArr);
 
 
-//slice, splice
+//slice, splice.... its about manipulate array elements 
+//here splice manipulate array 
 console.log("A", myArr);
 const myn1 =myArr.slice(1,3)
 console.log(myn1);
